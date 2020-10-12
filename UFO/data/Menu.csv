@@ -1,0 +1,6 @@
+"{""ObjectName"":""Menu"",""Version"":""1.0"",""TimeZone"":""GMT"",""Pattern"":""""}"
+id,name,label,logo,appId,sequenceNo,tabId,parentMenu,isLeaf,description,createdBy,createdDate,lastModifiedBy,lastModifiedDate,systemModifiedDate,deletedDate,isDeleted,owner,installedPackage,custom,protectMode
+string,string,string,string,string,numeric,string,string,bool,string,string,date,string,date,date,date,bool,string,string,bool,numeric
+001u000000dbdkXtXj04,home,Home,menuicon icon-home,000f000000dbdkX7ZW1A,NULL,001g0000000000000000,NULL,true,The home tab.,10gd000000d9AmU2gaYa,2020-09-27 12:48:04,10gd000000d9AmU2gaYa,2020-09-27 12:48:04,NULL,NULL,false,10gd000000d9AmU2gaYa,NULL,true,0
+001u000000dyqnI73sv2,founder_choose,founder填写拾物信息,menuicon icon-app,000f000000dbdkX7ZW1A,1,001g000000dyqnHX0pOq,NULL,true,NULL,10gd000000dodzPO8fxo,2020-10-11 12:25:32,10gd000000dodzPO8fxo,2020-10-11 12:25:32,NULL,NULL,false,10gd000000dodzPO8fxo,NULL,true,0
+001u000000dyqtoLH6RM,loser_editor,loser填写失物信息,menuicon icon-app,000f000000dbdkX7ZW1A,2,001g000000dyqtnqcQOO,NULL,true,NULL,10gd000000dodzPO8fxo,2020-10-11 12:27:00,10gd000000dodzPO8fxo,2020-10-11 12:27:00,NULL,NULL,false,10gd000000dodzPO8fxo,NULL,true,0

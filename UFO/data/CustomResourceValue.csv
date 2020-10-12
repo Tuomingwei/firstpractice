@@ -1,0 +1,4 @@
+"{""ObjectName"":""CustomResourceValue"",""Version"":""1.0"",""TimeZone"":""GMT"",""Pattern"":""""}"
+id,name,language,value,createdBy,createdDate,lastModifiedBy,lastModifiedDate,systemModifiedDate,deletedDate,isDeleted,owner,installedPackage,custom,protectMode
+string,string,string,clob,string,date,string,date,date,date,bool,string,string,bool,numeric
+003K000000dq43JHpLO4,003J000000dq43IagJcG,zh_CN,与拾主联系领回,10gd000000dTVgIrXgoq,2020-10-06 05:22:37,10gd000000dTVgIrXgoq,2020-10-06 05:22:37,NULL,NULL,false,10gd000000dTVgIrXgoq,NULL,true,0

@@ -1,0 +1,6 @@
+"{""ObjectName"":""ApplicationTab"",""Version"":""1.0"",""TimeZone"":""GMT"",""Pattern"":""""}"
+id,name,appId,sequenceNo,tabId,createdBy,createdDate,lastModifiedBy,lastModifiedDate,systemModifiedDate,deletedDate,isDeleted,owner,installedPackage,custom,protectMode
+string,string,string,numeric,string,string,date,string,date,date,date,bool,string,string,bool,numeric
+000g000000dbdkX88iHI,NULL,000f000000dbdkX7ZW1A,0,001g0000000000000000,10gd000000d9AmU2gaYa,2020-09-27 12:48:04,10gd000000d9AmU2gaYa,2020-09-27 12:48:04,NULL,NULL,false,10gd000000d9AmU2gaYa,NULL,true,0
+000g000000dyqnHXa1ey,NULL,000f000000dbdkX7ZW1A,0,001g000000dyqnHX0pOq,10gd000000dodzPO8fxo,2020-10-11 12:25:32,10gd000000dodzPO8fxo,2020-10-11 12:25:32,NULL,NULL,false,10gd000000dodzPO8fxo,NULL,true,0
+000g000000dyqtnrTDma,NULL,000f000000dbdkX7ZW1A,0,001g000000dyqtnqcQOO,10gd000000dodzPO8fxo,2020-10-11 12:27:00,10gd000000dodzPO8fxo,2020-10-11 12:27:00,NULL,NULL,false,10gd000000dodzPO8fxo,NULL,true,0

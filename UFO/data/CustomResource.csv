@@ -1,0 +1,4 @@
+"{""ObjectName"":""CustomResource"",""Version"":""1.0"",""TimeZone"":""GMT"",""Pattern"":""""}"
+id,name,fullName,category,language,value,projectID,createdBy,createdDate,lastModifiedBy,lastModifiedDate,systemModifiedDate,deletedDate,isDeleted,owner,installedPackage,custom,protectMode
+string,string,string,string,string,string,string,string,date,string,date,date,date,bool,string,string,bool,numeric
+003J000000dq43IagJcG,test1xjl__UFOApp.与拾主联系领回,NULL,page_props,NULL,NULL,000f000000dbdkX7ZW1A,10gd000000dTVgIrXgoq,2020-10-06 05:22:37,10gd000000dTVgIrXgoq,2020-10-06 05:22:37,NULL,NULL,false,10gd000000dTVgIrXgoq,NULL,true,0

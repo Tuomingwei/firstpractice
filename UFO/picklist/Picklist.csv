@@ -1,0 +1,8 @@
+"{""ObjectName"":""Picklist"",""Version"":""1.0"",""TimeZone"":""GMT"",""Pattern"":""""}"
+id,name,isSorted,isRestricted,controlField,masterLabel,description,isGlobal,createdBy,createdDate,lastModifiedBy,lastModifiedDate,systemModifiedDate,deletedDate,isDeleted,owner,installedPackage,custom,protectMode
+string,string,bool,bool,string,string,string,bool,string,date,string,date,date,date,bool,string,string,bool,numeric
+0004000000dd1lF9LGhH,Picklist53b9595b596b432f92063d4f52d344e2,false,false,NULL,Anonymous of test1xjl__Gender__CST,,false,10gd000000d9AmU2gaYa,2020-09-28 08:51:41,10gd000000d9AmU2gaYa,2020-09-28 08:51:41,NULL,NULL,false,10gd000000d9AmU2gaYa,NULL,true,1
+0004000000djvJCaVhQ3,Picklist83a3339b7238493dbc0039c0fea45ae3,false,false,NULL,Anonymous of test1xjl__State__CST,,false,10gd000000d9AmU2gaYa,2020-10-02 12:34:38,10gd000000d9AmU2gaYa,2020-10-02 12:34:38,NULL,NULL,false,10gd000000d9AmU2gaYa,NULL,true,1
+0004000000doW22qlMhv,Picklist8f0c6defa0bf4a30baf9ca7163df0621,false,false,NULL,Anonymous of test1xjl__State__CST,,false,10gd000000d9AmU2gaYa,2020-10-05 06:58:57,10gd000000d9AmU2gaYa,2020-10-05 06:58:57,NULL,NULL,false,10gd000000d9AmU2gaYa,NULL,true,1
+0004000000doWjGWe1jM,Picklist92552ce23e2540fb84b296aee86b3be3,false,false,NULL,Anonymous of test1xjl__Category__CST,,false,10gd000000d9AmU2gaYa,2020-10-05 07:08:42,10gd000000d9AmU2gaYa,2020-10-05 07:08:42,NULL,NULL,false,10gd000000d9AmU2gaYa,NULL,true,1
+0004000000doz6jGutdL,Picklist4d90d8310e404d6bb5c1be1fb13b12c5,false,false,NULL,Anonymous of test1xjl__Category__CST,,false,10gd000000d9AmU2gaYa,2020-10-05 13:45:49,10gd000000d9AmU2gaYa,2020-10-05 13:45:49,NULL,NULL,false,10gd000000d9AmU2gaYa,NULL,true,1
